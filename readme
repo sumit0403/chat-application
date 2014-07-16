@@ -1,0 +1,8 @@
+A very basics of node js and, how the client and server interact with eachother using socket.io.
+
+INSTALLATION GUIDE:
+1. install node js and mongodb on your system
+2. using npm install socket.io by the followind command:
+        npm install socket.io
+        
+3. open the index.html file in your browser
